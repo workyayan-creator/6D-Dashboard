@@ -1,4 +1,4 @@
-# Simulasi Bangunan ARS Bldg Foodhub
+# 6D Dashboard
 
 Aplikasi web interaktif yang mengubah model BIM (IFC) gedung **ARS Bldg Foodhub** menjadi model 3D beranimasi dengan enam tampilan analisis: energi, suhu ruang, pencahayaan alami, sirkulasi udara, dan kebisingan lengkap dengan suara 3D.
 
