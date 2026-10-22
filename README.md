@@ -36,24 +36,6 @@ Kontrol umum:
 | **Sirkulasi udara** | **Kebisingan** |
 | ![Aliran udara Lantai 1](docs/screenshots/udara.jpg) | ![Peta bising](docs/screenshots/suara.jpg) |
 
-## Menjalankan di komputer sendiri
-
-Klik ganda `index.html`, atau jalankan server lokal dari folder proyek:
-
-```bash
-python -m http.server 8000
-```
-
-Lalu buka http://localhost:8000.
-
-## Menerbitkan dengan GitHub Pages
-
-1. Unggah seluruh isi folder ini ke repositori, dengan `index.html` di akar.
-2. Buka **Settings › Pages**.
-3. Pada **Source**, pilih **Deploy from a branch**, cabang `main`, folder `/ (root)`, lalu simpan.
-4. Setelah satu atau dua menit, situs tersedia di `https://<nama-pengguna>.github.io/<nama-repositori>/`.
-
-Situs ini juga bisa diterbitkan di Netlify, Vercel, Cloudflare Pages, atau hosting biasa dengan mengunggah isi folder apa adanya.
 
 ## Struktur folder
 
