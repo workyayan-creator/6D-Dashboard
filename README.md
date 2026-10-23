@@ -4,8 +4,6 @@ Aplikasi web interaktif yang mengubah model BIM (IFC) gedung **ARS Bldg Foodhub*
 
 Semua simulasi berjalan langsung di browser. Tidak perlu server khusus, database, atau proses build.
 
-**Demo:** `https://<nama-pengguna>.github.io/<nama-repositori>/`
-
 ![Tampilan 3D gedung Foodhub dengan jalan raya dan rel kereta di sisi barat](docs/screenshots/3d.jpg)
 
 ## Fitur
